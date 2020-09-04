@@ -36,7 +36,7 @@ public class UserServiceImpl implements UserService {
         userRepository.save(user);
 
         emailService.sendMail(user.getEmail(), REGISTRATION_CONFIRMATION, MAIL_BODY
-                +url+ user.getConfirmationToken());
+                +"<a href=\"" + url + user.getConfirmationToken() + "\">Activate User</a>");
     }
 
     @Override
