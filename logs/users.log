@@ -1,0 +1,37 @@
+"2020-09-04 09:24:06 [INFO] com.example.demo.JwtAuthenticationApplication-Starting JwtAuthenticationApplication on C100-43 with PID 6756 (E:\Internal-Project-2\JWT-Authentication\target\classes started by skirti in E:\Internal-Project-2\JWT-Authentication)
+"2020-09-04 09:24:06 [INFO] com.example.demo.JwtAuthenticationApplication-No active profile set, falling back to default profiles: default
+"2020-09-04 09:24:08 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate-Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+"2020-09-04 09:24:11 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate-Finished Spring Data repository scanning in 2837ms. Found 1 JPA repository interfaces.
+"2020-09-04 09:25:29 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port(s): 8080 (http)
+"2020-09-04 09:25:29 [INFO] org.apache.catalina.core.StandardService-Starting service [Tomcat]
+"2020-09-04 09:25:29 [INFO] org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/9.0.33]
+"2020-09-04 09:25:29 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+"2020-09-04 09:25:29 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration-spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+"2020-09-04 09:25:30 [INFO] com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Starting...
+"2020-09-04 09:25:31 [INFO] com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Start completed.
+"2020-09-04 09:25:32 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean-Initialized JPA EntityManagerFactory for persistence unit 'default'
+"2020-09-04 09:25:34 [INFO] org.springframework.security.web.DefaultSecurityFilterChain-Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7816454d, org.springframework.security.web.context.SecurityContextPersistenceFilter@64f6dd19, org.springframework.security.web.header.HeaderWriterFilter@5d6d424d, org.springframework.web.filter.CorsFilter@67d180e4, org.springframework.security.web.authentication.logout.LogoutFilter@6a07e6ca, com.example.demo.configuration.securties.JwtRequestFilter@492fa72a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3b8b5b40, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@443253a6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@54e18a46, org.springframework.security.web.session.SessionManagementFilter@71f056a, org.springframework.security.web.access.ExceptionTranslationFilter@29592929, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7d90764a]
+"2020-09-04 09:25:34 [INFO] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor-Initializing ExecutorService 'applicationTaskExecutor'
+"2020-09-04 09:25:34 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port(s): 8080 (http) with context path ''
+"2020-09-04 09:25:34 [INFO] com.example.demo.JwtAuthenticationApplication-Started JwtAuthenticationApplication in 89.449 seconds (JVM running for 94.874)
+"2020-09-04 09:47:42 [INFO] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor-Shutting down ExecutorService 'applicationTaskExecutor'
+"2020-09-04 09:47:42 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean-Closing JPA EntityManagerFactory for persistence unit 'default'
+"2020-09-04 09:47:42 [INFO] com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown initiated...
+"2020-09-04 09:47:42 [INFO] com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown completed.
+"2020-09-04 09:47:47 [INFO] com.example.demo.JwtAuthenticationApplication-Starting JwtAuthenticationApplication on C100-43 with PID 5940 (E:\Internal-Project-2\JWT-Authentication\target\classes started by skirti in E:\Internal-Project-2\JWT-Authentication)
+"2020-09-04 09:47:47 [INFO] com.example.demo.JwtAuthenticationApplication-No active profile set, falling back to default profiles: default
+"2020-09-04 09:47:49 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate-Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+"2020-09-04 09:47:49 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate-Finished Spring Data repository scanning in 115ms. Found 1 JPA repository interfaces.
+"2020-09-04 09:47:50 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port(s): 8080 (http)
+"2020-09-04 09:47:50 [INFO] org.apache.catalina.core.StandardService-Starting service [Tomcat]
+"2020-09-04 09:47:50 [INFO] org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/9.0.33]
+"2020-09-04 09:47:50 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+"2020-09-04 09:47:50 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration-spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+"2020-09-04 09:47:51 [INFO] com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Starting...
+"2020-09-04 09:47:51 [INFO] com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Start completed.
+"2020-09-04 09:47:52 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean-Initialized JPA EntityManagerFactory for persistence unit 'default'
+"2020-09-04 09:47:53 [INFO] org.springframework.security.web.DefaultSecurityFilterChain-Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@77a85e76, org.springframework.security.web.context.SecurityContextPersistenceFilter@2270f58d, org.springframework.security.web.header.HeaderWriterFilter@44a44a04, org.springframework.web.filter.CorsFilter@2cebf82f, org.springframework.security.web.authentication.logout.LogoutFilter@74231642, com.example.demo.configuration.securties.JwtRequestFilter@42238078, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@54737322, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@16e4db59, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@34fc315d, org.springframework.security.web.session.SessionManagementFilter@27746c5e, org.springframework.security.web.access.ExceptionTranslationFilter@cfb94fd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@d190639]
+"2020-09-04 09:47:53 [INFO] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor-Initializing ExecutorService 'applicationTaskExecutor'
+"2020-09-04 09:47:53 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port(s): 8080 (http) with context path ''
+"2020-09-04 09:47:53 [INFO] com.example.demo.JwtAuthenticationApplication-Started JwtAuthenticationApplication in 6.873 seconds (JVM running for 8.369)
+"2020-09-04 09:48:19 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
